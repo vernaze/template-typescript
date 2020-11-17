@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./ts/index.ts"],"names":[],"mappings":";;;;;;AAAA,kBAAkB;AAElB,IAAM,OAAO,GAAmB,QAAQ,CAAC,aAAa,CAAC,OAAO,CAAC,CAAC;AAChE,OAAO,CAAC,SAAS,GAAG,aAAa,CAAC","file":"main.js","sourcesContent":["// write code here\n\nconst element: HTMLDivElement = document.querySelector('.root');\nelement.innerHTML = 'hello world';\n"],"sourceRoot":""}
